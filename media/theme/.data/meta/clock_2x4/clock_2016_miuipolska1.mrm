@@ -1,0 +1,49 @@
+{
+  "localId": "clock_2016_miuipolska1",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/clock_2016_miuipolska1.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/clock_2016_miuipolska1.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/clock_2016_miuipolska1.mrc",
+  "hash": "e8278e038e4c14600ab0f87a4787c96415b064a5",
+  "size": 130497,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "Clock with weather 1",
+  "description": "Clock with weather conditions, temperature and location",
+  "author": "Acid",
+  "designer": "Acid",
+  "version": "2016",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_2016_miuipolska1/preview_clock_0.jpg"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/clock_2x4/clock_2016_miuipolska1/preview_clock_0.jpg"
+  ],
+  "titles": {
+    "en_US": "Clock with weather 1",
+    "pl_PL": "Zegar z pogodą 1",
+    "uk_UA": "Звичайні(маленькі)",
+    "ta_IN": "எளிய கடிகாரம்(சிறிய) ",
+    "ru_RU": "Простые(маленькие)",
+    "fr_FR": "Horloge simple (petite)",
+    "it_IT": "Simple clock (piccolo)",
+    "de_DE": "Einfache Uhr (klein)",
+    "es_ES": "Reloj simple(pequeño)",
+    "hi_IN": "(छोटे) सरल घड़ी",
+    "pt_BR": "Relógio simples (pequeno)",
+    "vi_VN": "Đồng hồ đơn giản (nhỏ)",
+    "tr_TR": "Basit saat(küçük)",
+    "th_TH": "นาฬิกาแบบง่าย(เล็ก)",
+    "ms_MY": "Jam ringkas(kecil)",
+    "in_ID": "Jam sederhana(kecil)",
+    "zh_CN": "简洁时钟(小左)",
+    "zh_TW": "簡潔時鐘(小左)"
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}

@@ -1,0 +1,53 @@
+{
+  "localId": "clock",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/simple_clock_2x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/clock.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/clock.mrc",
+  "hash": "e940554b9a6caa375f2d33728154bde46805c7c5",
+  "size": 3680,
+  "updatedTime": 0,
+  "platform": 6,
+  "title": "Default时钟",
+  "description": null,
+  "author": "MIUI",
+  "designer": "MIUI",
+  "version": "1.0",
+  "downloadCount": null,
+
+  "builtInThumbnails": {
+    "en_US": [
+      "/system/media/theme/.data/preview/clock_2x4/clock/en_US_preview_clock_0.png"
+    ],
+    "zh_CN": [
+      "/system/media/theme/.data/preview/clock_2x4/clock/preview_clock_0.png"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "/system/media/theme/.data/preview/clock_2x4/clock/en_US_preview_clock_0.png"
+    ],
+    "zh_CN": [
+      "/system/media/theme/.data/preview/clock_2x4/clock/preview_clock_0.png"
+    ]
+  },
+
+  "titles": {
+    "en_US": "Default",
+    "sk_SK": "Pôvodná",
+    "cs_CZ": "Původní",
+    "pl_PL": "Domyślny",
+    "fr_FR": "Par défaut",
+    "bg_BG": "Default",
+    "hr_HR": "Zadano",
+    "it_IT": "Default",
+    "hu_HU": "Default",
+    "zh_CN": "Default",
+    "zh_TW": "預設"
+  },  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}
